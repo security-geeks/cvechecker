@@ -1,3 +1,7 @@
+> [!NOTE]
+> cvechecker is no longer being developed / maintained.
+> Thank you for your interest (past and present)!
+
 # cvechecker
 
 The goal of cvechecker is to report about possible vulnerabilities on your
